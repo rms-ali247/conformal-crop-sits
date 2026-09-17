@@ -1,0 +1,26 @@
+{
+  "season": "kharif",
+  "score": "aps",
+  "alpha": 0.1,
+  "temperature": 2.083,
+  "qhat_marginal": 0.999907,
+  "qhat_robust": 0.999942,
+  "qhat_mondrian": [
+    0.999766,
+    0.99994,
+    0.999947,
+    0.999919,
+    0.999909,
+    0.999853,
+    0.999693
+  ],
+  "class_names": [
+    "Cotton",
+    "Jantar",
+    "Maize",
+    "Rice",
+    "Sesame (Til)",
+    "Sorghum",
+    "Sugarcane"
+  ]
+}

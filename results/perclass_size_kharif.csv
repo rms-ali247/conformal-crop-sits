@@ -1,0 +1,22 @@
+season,scheme,crop,n,coverage,avg_size,singleton_%
+kharif,marginal,Sesame (Til),729,0.898,4.18,9.3
+kharif,marginal,Jantar,828,0.864,4.15,7.3
+kharif,marginal,Sorghum,1137,0.921,4.45,4.3
+kharif,marginal,Maize,3727,0.795,2.55,18.9
+kharif,marginal,Sugarcane,5935,0.983,4.22,0.9
+kharif,marginal,Cotton,10590,0.988,3.92,2.6
+kharif,marginal,Rice,27729,0.862,2.28,18.4
+kharif,region-robust,Sesame (Til),729,0.937,4.53,7.7
+kharif,region-robust,Jantar,828,0.91,4.54,7.1
+kharif,region-robust,Sorghum,1137,0.942,4.8,3.3
+kharif,region-robust,Maize,3727,0.88,2.99,16.7
+kharif,region-robust,Sugarcane,5935,0.99,4.77,0.3
+kharif,region-robust,Cotton,10590,0.991,4.52,0.2
+kharif,region-robust,Rice,27729,0.959,3.04,10.1
+kharif,class-region-robust,Sesame (Til),729,0.982,5.43,0.0
+kharif,class-region-robust,Jantar,828,0.996,5.27,0.1
+kharif,class-region-robust,Sorghum,1137,0.978,5.53,0.0
+kharif,class-region-robust,Maize,3727,0.994,4.6,0.3
+kharif,class-region-robust,Sugarcane,5935,0.988,5.34,0.0
+kharif,class-region-robust,Cotton,10590,0.963,5.71,0.0
+kharif,class-region-robust,Rice,27729,0.962,5.25,0.0

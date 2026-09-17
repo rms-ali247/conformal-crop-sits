@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments\\ms-s4\\models",
+  "model_type": "ms-s4",
+  "temperature": 1.7816,
+  "n_test": 3390,
+  "n_eval": 2034,
+  "OA": 0.9405,
+  "Macro_F1": 0.8473,
+  "Weighted_F1": 0.9417,
+  "Kappa": 0.8599,
+  "ECE_uncal": 0.0435,
+  "ECE_cal": 0.0176,
+  "Brier_uncal": 0.1024,
+  "Brier_cal": 0.0958,
+  "AURC": 0.0117,
+  "Acc@80cov": 0.9809
+}

@@ -1,0 +1,5 @@
+split,scheme,cov_mean,cov_std,cov_min,viol_rate_%,macro_mean,size_mean
+iid,marginal,0.9002,0.0037,0.8929,0.0,0.7833,1.955
+spatial,marginal,0.8872,0.0482,0.7682,34.0,0.7862,1.92
+spatial,mondrian,0.8791,0.0554,0.7688,44.0,0.8708,2.478
+spatial,region-robust,0.9421,0.0297,0.8581,2.0,0.8549,2.389

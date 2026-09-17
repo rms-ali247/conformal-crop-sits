@@ -1,0 +1,18 @@
+{
+  "season": "kharif",
+  "model_dir": "experiments\\mstacnn\\models",
+  "model_type": "mstacnn",
+  "temperature": 1.3198,
+  "n_test": 8515,
+  "n_eval": 5109,
+  "OA": 0.9385,
+  "Macro_F1": 0.7638,
+  "Weighted_F1": 0.9408,
+  "Kappa": 0.9015,
+  "ECE_uncal": 0.0257,
+  "ECE_cal": 0.0083,
+  "Brier_uncal": 0.1007,
+  "Brier_cal": 0.0993,
+  "AURC": 0.012,
+  "Acc@80cov": 0.9834
+}

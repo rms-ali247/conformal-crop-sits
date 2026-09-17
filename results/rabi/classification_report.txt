@@ -1,0 +1,11 @@
+                  precision    recall  f1-score   support
+
+         Barseem     0.7865    0.8157    0.8008      1161
+           Maize     0.8996    0.8908    0.8951       714
+Rapeseed Mustard     0.8613    0.8324    0.8466      2029
+       Sugarcane     0.8300    0.7959    0.8126       632
+           Wheat     0.9675    0.9705    0.9690     18384
+
+        accuracy                         0.9432     22920
+       macro avg     0.8690    0.8611    0.8648     22920
+    weighted avg     0.9430    0.9432    0.9430     22920

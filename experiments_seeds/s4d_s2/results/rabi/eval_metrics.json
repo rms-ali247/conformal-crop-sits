@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments_seeds/s4d_s2/models",
+  "model_type": "s4d",
+  "temperature": 1.4502,
+  "n_test": 2902,
+  "n_eval": 1742,
+  "OA": 0.9179,
+  "Macro_F1": 0.8152,
+  "Weighted_F1": 0.92,
+  "Kappa": 0.7738,
+  "ECE_uncal": 0.0418,
+  "ECE_cal": 0.0138,
+  "Brier_uncal": 0.1304,
+  "Brier_cal": 0.1257,
+  "AURC": 0.0182,
+  "Acc@80cov": 0.9713
+}

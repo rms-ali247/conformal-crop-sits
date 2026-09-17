@@ -1,0 +1,15 @@
+Test OA=0.9281  F1=0.9311  Kappa=0.8846
+
+              precision    recall  f1-score   support
+
+      Cotton     0.9304    0.9339    0.9322      1589
+      Jantar     0.3953    0.5763    0.4690        59
+       Maize     0.8113    0.8293    0.8202       451
+        Rice     0.9737    0.9606    0.9671      4748
+Sesame (Til)     0.4881    0.6406    0.5541        64
+     Sorghum     0.2745    0.5385    0.3636        52
+   Sugarcane     0.9188    0.8898    0.9041      1552
+
+    accuracy                         0.9281      8515
+   macro avg     0.6846    0.7670    0.7157      8515
+weighted avg     0.9351    0.9281    0.9311      8515

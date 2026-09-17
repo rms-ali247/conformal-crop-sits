@@ -1,0 +1,16 @@
+season,scheme,crop,n,coverage,avg_size,singleton_%
+rabi,marginal,Sugarcane,632,0.859,2.27,22.5
+rabi,marginal,Maize,714,0.626,1.45,25.6
+rabi,marginal,Barseem,1161,0.825,2.17,19.1
+rabi,marginal,Rapeseed Mustard,2029,0.734,1.85,19.7
+rabi,marginal,Wheat,18384,0.928,1.94,23.2
+rabi,region-robust,Sugarcane,632,0.898,2.57,13.6
+rabi,region-robust,Maize,714,0.718,1.83,20.5
+rabi,region-robust,Barseem,1161,0.91,2.6,13.8
+rabi,region-robust,Rapeseed Mustard,2029,0.838,2.24,18.2
+rabi,region-robust,Wheat,18384,0.977,2.51,9.9
+rabi,class-region-robust,Sugarcane,632,0.996,3.68,0.4
+rabi,class-region-robust,Maize,714,0.975,3.45,0.9
+rabi,class-region-robust,Barseem,1161,0.991,3.97,0.0
+rabi,class-region-robust,Rapeseed Mustard,2029,0.973,4.15,0.0
+rabi,class-region-robust,Wheat,18384,0.943,4.55,0.0

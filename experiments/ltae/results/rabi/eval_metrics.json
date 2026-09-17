@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments\\ltae\\models",
+  "model_type": "ltae",
+  "temperature": 0.8978,
+  "n_test": 3390,
+  "n_eval": 2034,
+  "OA": 0.9086,
+  "Macro_F1": 0.7977,
+  "Weighted_F1": 0.9159,
+  "Kappa": 0.7995,
+  "ECE_uncal": 0.0167,
+  "ECE_cal": 0.0123,
+  "Brier_uncal": 0.1404,
+  "Brier_cal": 0.1404,
+  "AURC": 0.0257,
+  "Acc@80cov": 0.9662
+}

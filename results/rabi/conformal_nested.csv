@@ -1,0 +1,5 @@
+season,scheme,tau,cov_mean,cov_std,cov_min,viol_%,macro_mean,macro_min,worst_class_cov,size_mean,singleton_%,empty_%
+rabi,marginal,,0.8929,0.0463,0.7682,24.0,0.7947,0.6378,0.6264,1.937,22.6,9.22
+rabi,mondrian,,0.8803,0.0527,0.7688,36.0,0.8698,0.734,0.8301,2.47,9.0,6.78
+rabi,region-robust,0.9,0.9488,0.0313,0.8581,4.0,0.868,0.7194,0.7176,2.467,11.2,3.89
+rabi,class-region-robust,0.9,0.95,0.0228,0.8974,0.0,0.9757,0.9066,0.9429,4.422,0.1,0.0

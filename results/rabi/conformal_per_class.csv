@@ -1,0 +1,26 @@
+split,scheme,class,coverage
+iid,marginal,Barseem,0.8503
+iid,marginal,Maize,0.5322
+iid,marginal,Rapeseed Mustard,0.7663
+iid,marginal,Sugarcane,0.8797
+iid,marginal,Wheat,0.9367
+iid,mondrian,Barseem,0.9036
+iid,mondrian,Maize,0.8908
+iid,mondrian,Rapeseed Mustard,0.8925
+iid,mondrian,Sugarcane,0.9399
+iid,mondrian,Wheat,0.904
+spatial,marginal,Barseem,0.8029
+spatial,marginal,Maize,0.4825
+spatial,marginal,Rapeseed Mustard,0.7786
+spatial,marginal,Sugarcane,0.8057
+spatial,marginal,Wheat,0.9267
+spatial,mondrian,Barseem,0.8674
+spatial,mondrian,Maize,0.8601
+spatial,mondrian,Rapeseed Mustard,0.9765
+spatial,mondrian,Sugarcane,0.7986
+spatial,mondrian,Wheat,0.8932
+spatial,region-robust,Barseem,0.8545
+spatial,region-robust,Maize,0.5734
+spatial,region-robust,Rapeseed Mustard,0.8567
+spatial,region-robust,Sugarcane,0.8269
+spatial,region-robust,Wheat,0.9586

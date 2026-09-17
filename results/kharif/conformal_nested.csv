@@ -1,0 +1,5 @@
+season,scheme,tau,cov_mean,cov_std,cov_min,viol_%,macro_mean,macro_min,worst_class_cov,size_mean,singleton_%,empty_%
+kharif,marginal,,0.8989,0.0693,0.6752,28.0,0.9015,0.7898,0.795,2.985,12.4,8.83
+kharif,mondrian,,0.8927,0.061,0.6805,28.0,0.8919,0.8212,0.8639,2.666,19.9,6.63
+kharif,region-robust,0.9,0.9618,0.0283,0.8603,4.0,0.9442,0.8836,0.8797,3.645,7.1,2.75
+kharif,class-region-robust,0.9,0.9686,0.0182,0.9268,0.0,0.9802,0.9627,0.9616,5.315,0.0,0.0

@@ -1,0 +1,17 @@
+season,province,scheme,n_eval,n_cal,n_districts_eval,n_crops_scored,n_crops_total,coverage,macro_coverage,worst_crop,worst_crop_name,worst_crop_n,worst_district,n_districts_scored,avg_set_size,singleton_%,violates
+kharif,Balochistan,marginal,8462,42213,8,6,7,0.5983,0.799,0.393,Rice,5493,0.3054,8,1.862,17.6,1
+kharif,Balochistan,mondrian,8462,42213,8,6,7,0.6127,0.8021,0.4469,Rice,5493,0.3561,8,1.955,14.6,1
+kharif,Balochistan,region-robust,8462,42213,8,6,7,0.8239,0.8651,0.7393,Rice,5493,0.6473,8,2.459,25.0,1
+kharif,Balochistan,class-region-robust,8462,42213,8,6,7,0.8219,0.9153,0.7399,Rice,5493,0.6502,8,5.034,0.0,1
+kharif,Khyber Pakhtunkhwa,marginal,2554,48121,11,4,7,0.9166,0.9208,0.8679,Sorghum,53,0.7593,11,3.283,14.8,0
+kharif,Khyber Pakhtunkhwa,mondrian,2554,48121,11,4,7,0.9655,0.9413,0.8679,Sorghum,53,0.8611,11,3.04,28.1,0
+kharif,Khyber Pakhtunkhwa,region-robust,2554,48121,11,4,7,0.9601,0.9525,0.9057,Sorghum,53,0.8333,11,3.727,10.4,0
+kharif,Khyber Pakhtunkhwa,class-region-robust,2554,48121,11,4,7,0.9914,0.9839,0.9731,Rice,297,0.981,11,5.103,0.0,0
+kharif,Punjab,marginal,19581,31094,25,7,7,0.9479,0.9255,0.7738,Maize,2038,0.7439,25,3.315,9.2,0
+kharif,Punjab,mondrian,19581,31094,25,7,7,0.9177,0.9027,0.7831,Maize,2038,0.7008,25,2.933,19.5,0
+kharif,Punjab,region-robust,19581,31094,25,7,7,0.9702,0.9505,0.8557,Maize,2038,0.8176,25,3.818,5.0,0
+kharif,Punjab,class-region-robust,19581,31094,25,7,7,0.983,0.9852,0.9489,Cotton,3425,0.937,25,4.952,0.0,0
+kharif,Sindh,marginal,20078,30597,17,7,7,0.9615,0.9217,0.8016,Maize,126,0.8479,17,3.206,10.1,0
+kharif,Sindh,mondrian,20078,30597,17,7,7,0.9478,0.909,0.8413,Maize,126,0.8299,17,2.847,11.8,0
+kharif,Sindh,region-robust,20078,30597,17,7,7,0.9875,0.9461,0.8413,Maize,126,0.9658,17,3.871,2.9,0
+kharif,Sindh,class-region-robust,20078,30597,17,7,7,0.9846,0.964,0.873,Maize,126,0.9225,17,5.478,0.0,0

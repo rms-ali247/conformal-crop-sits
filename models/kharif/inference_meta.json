@@ -1,0 +1,16 @@
+{
+  "season": "kharif",
+  "num_classes": 7,
+  "class_names": [
+    "Cotton",
+    "Jantar",
+    "Maize",
+    "Rice",
+    "Sesame (Til)",
+    "Sorghum",
+    "Sugarcane"
+  ],
+  "in_channels": 28,
+  "timesteps": 7,
+  "model_type": "ms-s4"
+}

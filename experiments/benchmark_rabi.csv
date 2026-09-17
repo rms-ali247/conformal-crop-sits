@@ -1,0 +1,3 @@
+model,OA,Macro_F1,Weighted_F1,Kappa,ECE_cal,AURC,Acc@80cov,Cov_sp_marginal,MacroCov_sp_mondrian,Cov_sp_robust,SetSize_sp_robust,McNemar_p_vs_ms-s4
+ms-s4,0.9405,0.8473,0.9417,0.8599,0.0176,0.0117,0.9809,0.902,0.8489,0.9403,2.244,
+transformer,0.9213,0.8103,0.9268,0.8224,0.0164,0.0262,0.9705,0.9343,0.8377,0.9705,2.85,1e-05

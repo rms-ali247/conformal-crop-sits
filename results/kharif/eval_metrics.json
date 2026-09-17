@@ -1,0 +1,18 @@
+{
+  "season": "kharif",
+  "model_dir": "models",
+  "model_type": "ms-s4",
+  "temperature": 2.083,
+  "n_test": 8515,
+  "n_eval": 5109,
+  "OA": 0.946,
+  "Macro_F1": 0.7877,
+  "Weighted_F1": 0.9471,
+  "Kappa": 0.9128,
+  "ECE_uncal": 0.0463,
+  "ECE_cal": 0.0154,
+  "Brier_uncal": 0.0991,
+  "Brier_cal": 0.0903,
+  "AURC": 0.0121,
+  "Acc@80cov": 0.9829
+}

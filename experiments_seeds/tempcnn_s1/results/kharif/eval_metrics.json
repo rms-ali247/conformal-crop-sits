@@ -1,0 +1,18 @@
+{
+  "season": "kharif",
+  "model_dir": "experiments_seeds/tempcnn_s1/models",
+  "model_type": "tempcnn",
+  "temperature": 1.0796,
+  "n_test": 12776,
+  "n_eval": 7666,
+  "OA": 0.9247,
+  "Macro_F1": 0.7365,
+  "Weighted_F1": 0.9338,
+  "Kappa": 0.8798,
+  "ECE_uncal": 0.0067,
+  "ECE_cal": 0.0129,
+  "Brier_uncal": 0.1175,
+  "Brier_cal": 0.1179,
+  "AURC": 0.0119,
+  "Acc@80cov": 0.9814
+}

@@ -1,0 +1,43 @@
+# The Zenodo deposit bundle. Upload this folder to Zenodo, do not commit it:
+# X_kharif.npy alone is 46 MB and the arrays are versioned by DOI instead.
+zenodo/
+
+# Downloaded dataset (fetch from the Zenodo DOI, see README)
+data/
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# LaTeX build products
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.pdf
+paper/*.synctex.gz
+
+# Local outputs
+inference/outputs/
+results_*/
+models_*/

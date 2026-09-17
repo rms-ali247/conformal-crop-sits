@@ -1,0 +1,21 @@
+season,scheme,class,coverage
+rabi,marginal,Barseem,0.8252
+rabi,marginal,Maize,0.6264
+rabi,marginal,Rapeseed Mustard,0.7342
+rabi,marginal,Sugarcane,0.8592
+rabi,marginal,Wheat,0.9282
+rabi,mondrian,Barseem,0.8962
+rabi,mondrian,Maize,0.8301
+rabi,mondrian,Rapeseed Mustard,0.8448
+rabi,mondrian,Sugarcane,0.8906
+rabi,mondrian,Wheat,0.8876
+rabi,region-robust,Barseem,0.9101
+rabi,region-robust,Maize,0.7176
+rabi,region-robust,Rapeseed Mustard,0.8376
+rabi,region-robust,Sugarcane,0.898
+rabi,region-robust,Wheat,0.9765
+rabi,class-region-robust,Barseem,0.9909
+rabi,class-region-robust,Maize,0.9751
+rabi,class-region-robust,Rapeseed Mustard,0.9731
+rabi,class-region-robust,Sugarcane,0.9965
+rabi,class-region-robust,Wheat,0.9429

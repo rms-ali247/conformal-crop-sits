@@ -1,0 +1,29 @@
+season,scheme,class,coverage
+kharif,marginal,Cotton,0.9879
+kharif,marginal,Jantar,0.8643
+kharif,marginal,Maize,0.795
+kharif,marginal,Rice,0.8616
+kharif,marginal,Sesame (Til),0.8982
+kharif,marginal,Sorghum,0.9211
+kharif,marginal,Sugarcane,0.9825
+kharif,mondrian,Cotton,0.8993
+kharif,mondrian,Jantar,0.8971
+kharif,mondrian,Maize,0.8639
+kharif,mondrian,Rice,0.8935
+kharif,mondrian,Sesame (Til),0.9064
+kharif,mondrian,Sorghum,0.8878
+kharif,mondrian,Sugarcane,0.8956
+kharif,region-robust,Cotton,0.991
+kharif,region-robust,Jantar,0.9102
+kharif,region-robust,Maize,0.8797
+kharif,region-robust,Rice,0.9589
+kharif,region-robust,Sesame (Til),0.9374
+kharif,region-robust,Sorghum,0.942
+kharif,region-robust,Sugarcane,0.9901
+kharif,class-region-robust,Cotton,0.9631
+kharif,class-region-robust,Jantar,0.9959
+kharif,class-region-robust,Maize,0.9936
+kharif,class-region-robust,Rice,0.9616
+kharif,class-region-robust,Sesame (Til),0.9816
+kharif,class-region-robust,Sorghum,0.9784
+kharif,class-region-robust,Sugarcane,0.9875

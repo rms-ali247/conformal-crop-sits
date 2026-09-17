@@ -1,0 +1,26 @@
+{
+  "season": "rabi",
+  "model": "mstacnn",
+  "loss": "ce",
+  "class_weights": true,
+  "cv": "Spatial (District-grouped, 5 folds)",
+  "spatial_cv": true,
+  "spatial_test": true,
+  "folds": 5,
+  "epochs": 150,
+  "batch_size": 256,
+  "lr": 0.001,
+  "patience": 20,
+  "min_samples": 50,
+  "seed": 2,
+  "device": "cuda",
+  "samples": 23408,
+  "num_classes": 5,
+  "class_names": [
+    "Barseem",
+    "Maize",
+    "Rapeseed Mustard",
+    "Sugarcane",
+    "Wheat"
+  ]
+}

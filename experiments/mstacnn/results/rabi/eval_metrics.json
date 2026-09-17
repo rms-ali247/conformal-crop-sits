@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments\\mstacnn\\models",
+  "model_type": "mstacnn",
+  "temperature": 1.1668,
+  "n_test": 3390,
+  "n_eval": 2034,
+  "OA": 0.9213,
+  "Macro_F1": 0.8161,
+  "Weighted_F1": 0.9261,
+  "Kappa": 0.8228,
+  "ECE_uncal": 0.0231,
+  "ECE_cal": 0.0142,
+  "Brier_uncal": 0.1226,
+  "Brier_cal": 0.1215,
+  "AURC": 0.0224,
+  "Acc@80cov": 0.9773
+}

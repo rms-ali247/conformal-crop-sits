@@ -1,0 +1,6 @@
+split,scheme,coverage,macro_coverage,avg_set_size,singleton_rate,singleton_acc,empty_rate
+iid,marginal,0.9056,0.9106,2.966,0.1348,0.9848,0.0823
+iid,mondrian,0.9035,0.9083,2.762,0.1777,0.9805,0.0562
+spatial,marginal,0.9604,0.9296,3.691,0.0755,0.9729,0.0235
+spatial,mondrian,0.9415,0.9143,3.288,0.1167,0.9665,0.0171
+spatial,region-robust,0.9757,0.9507,4.1,0.0439,0.9714,0.0107

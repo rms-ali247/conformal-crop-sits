@@ -1,0 +1,36 @@
+split,scheme,class,coverage
+iid,marginal,Cotton,0.9885
+iid,marginal,Jantar,0.872
+iid,marginal,Maize,0.8187
+iid,marginal,Rice,0.8688
+iid,marginal,Sesame (Til),0.9066
+iid,marginal,Sorghum,0.9366
+iid,marginal,Sugarcane,0.9828
+iid,mondrian,Cotton,0.8975
+iid,mondrian,Jantar,0.913
+iid,mondrian,Maize,0.9147
+iid,mondrian,Rice,0.9049
+iid,mondrian,Sesame (Til),0.9286
+iid,mondrian,Sorghum,0.9032
+iid,mondrian,Sugarcane,0.8966
+spatial,marginal,Cotton,0.9884
+spatial,marginal,Jantar,0.8649
+spatial,marginal,Maize,0.8839
+spatial,marginal,Rice,0.9643
+spatial,marginal,Sesame (Til),0.8899
+spatial,marginal,Sorghum,0.9308
+spatial,marginal,Sugarcane,0.9854
+spatial,mondrian,Cotton,0.9433
+spatial,mondrian,Jantar,0.8665
+spatial,mondrian,Maize,0.9595
+spatial,mondrian,Rice,0.9705
+spatial,mondrian,Sesame (Til),0.8542
+spatial,mondrian,Sorghum,0.9158
+spatial,mondrian,Sugarcane,0.8902
+spatial,region-robust,Cotton,0.9899
+spatial,region-robust,Jantar,0.9022
+spatial,region-robust,Maize,0.9248
+spatial,region-robust,Rice,0.9845
+spatial,region-robust,Sesame (Til),0.9167
+spatial,region-robust,Sorghum,0.9459
+spatial,region-robust,Sugarcane,0.9912

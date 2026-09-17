@@ -1,0 +1,5 @@
+season,tau,mean_coverage,worst_province,avg_set_size,violations,n_provinces
+kharif,0.9,0.9354,0.8239,3.469,1,4
+kharif,0.95,0.9799,0.9702,3.93,0,4
+kharif,0.99,0.9885,0.982,4.302,0,4
+kharif,1.0,0.9885,0.982,4.302,0,4

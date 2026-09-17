@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments_seeds/transformer_s2/models",
+  "model_type": "transformer",
+  "temperature": 1.1743,
+  "n_test": 2902,
+  "n_eval": 1742,
+  "OA": 0.9087,
+  "Macro_F1": 0.8031,
+  "Weighted_F1": 0.9121,
+  "Kappa": 0.7568,
+  "ECE_uncal": 0.0227,
+  "ECE_cal": 0.0162,
+  "Brier_uncal": 0.1418,
+  "Brier_cal": 0.1414,
+  "AURC": 0.0275,
+  "Acc@80cov": 0.9656
+}

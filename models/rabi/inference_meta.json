@@ -1,0 +1,14 @@
+{
+  "season": "rabi",
+  "num_classes": 5,
+  "class_names": [
+    "Barseem",
+    "Maize",
+    "Rapeseed Mustard",
+    "Sugarcane",
+    "Wheat"
+  ],
+  "in_channels": 28,
+  "timesteps": 7,
+  "model_type": "ms-s4"
+}

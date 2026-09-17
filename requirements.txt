@@ -1,0 +1,10 @@
+# Core dependencies for crop type mapping pipeline
+geopandas>=0.12
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.0
+torch>=2.0
+matplotlib>=3.6
+earthengine-api>=0.1.350
+python-dateutil>=2.8
+rasterio>=1.3

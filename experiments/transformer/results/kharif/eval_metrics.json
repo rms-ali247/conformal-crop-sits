@@ -1,0 +1,18 @@
+{
+  "season": "kharif",
+  "model_dir": "experiments\\transformer\\models",
+  "model_type": "transformer",
+  "temperature": 1.251,
+  "n_test": 8515,
+  "n_eval": 5109,
+  "OA": 0.9409,
+  "Macro_F1": 0.7683,
+  "Weighted_F1": 0.9442,
+  "Kappa": 0.9055,
+  "ECE_uncal": 0.0272,
+  "ECE_cal": 0.0067,
+  "Brier_uncal": 0.0992,
+  "Brier_cal": 0.0972,
+  "AURC": 0.0189,
+  "Acc@80cov": 0.9777
+}

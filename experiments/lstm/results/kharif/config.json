@@ -1,0 +1,28 @@
+{
+  "season": "kharif",
+  "model": "lstm",
+  "loss": "ce",
+  "class_weights": true,
+  "cv": "Spatial (District-grouped, 5 folds)",
+  "spatial_cv": true,
+  "spatial_test": true,
+  "folds": 5,
+  "epochs": 150,
+  "batch_size": 256,
+  "lr": 0.001,
+  "patience": 20,
+  "min_samples": 50,
+  "seed": 42,
+  "device": "cuda",
+  "samples": 50675,
+  "num_classes": 7,
+  "class_names": [
+    "Cotton",
+    "Jantar",
+    "Maize",
+    "Rice",
+    "Sesame (Til)",
+    "Sorghum",
+    "Sugarcane"
+  ]
+}

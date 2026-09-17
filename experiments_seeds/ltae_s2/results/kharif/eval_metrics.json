@@ -1,0 +1,18 @@
+{
+  "season": "kharif",
+  "model_dir": "experiments_seeds/ltae_s2/models",
+  "model_type": "ltae",
+  "temperature": 1.0457,
+  "n_test": 7437,
+  "n_eval": 4463,
+  "OA": 0.9151,
+  "Macro_F1": 0.7087,
+  "Weighted_F1": 0.9223,
+  "Kappa": 0.8562,
+  "ECE_uncal": 0.0117,
+  "ECE_cal": 0.0109,
+  "Brier_uncal": 0.1289,
+  "Brier_cal": 0.129,
+  "AURC": 0.0187,
+  "Acc@80cov": 0.9768
+}

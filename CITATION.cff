@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the paper below."
+title: "Conformal Crop Classification Across Regions with Sentinel-2 Time Series"
+abstract: >-
+  Code, trained models, and evaluation artefacts for a study of the geographic
+  coverage gap: the loss of conditional coverage that appears when a conformal
+  predictor calibrated in one region is deployed in another. Covers 85,618
+  surveyed fields across 79 districts of Pakistan over two cropping seasons.
+type: software
+license: MIT
+url: "https://github.com/rms-ali247/conformal-crop-sits"
+repository-code: "https://github.com/rms-ali247/conformal-crop-sits"
+authors:
+  - given-names: "Rao Muhammad Saeed"
+    family-names: "Ali"
+    email: "rali.msai23seecs@seecs.edu.pk"
+    affiliation: "National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: "Muhammad Moazam"
+    family-names: "Fraz"
+    email: "moazam.fraz@seecs.edu.pk"
+    affiliation: "National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+  - given-names: "Sami"
+    family-names: "Ullah"
+    email: "s.ullah@bham.ac.uk"
+    affiliation: "University of Birmingham, Birmingham, United Kingdom"
+  - given-names: "Zuhair"
+    family-names: "Zafar"
+    email: "zuhair.zafar@seecs.edu.pk"
+    affiliation: "National University of Sciences and Technology (NUST), Islamabad, Pakistan"
+keywords:
+  - conformal prediction
+  - uncertainty quantification
+  - distribution shift
+  - spatial cross-validation
+  - crop-type mapping
+  - satellite image time series
+  - Sentinel-2
+preferred-citation:
+  type: conference-paper
+  title: "Conformal Crop Classification Across Regions with Sentinel-2 Time Series"
+  year: 2026
+  authors:
+    - given-names: "Rao Muhammad Saeed"
+      family-names: "Ali"
+    - given-names: "Muhammad Moazam"
+      family-names: "Fraz"
+    - given-names: "Sami"
+      family-names: "Ullah"
+    - given-names: "Zuhair"
+      family-names: "Zafar"

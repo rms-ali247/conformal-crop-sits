@@ -1,0 +1,18 @@
+{
+  "season": "rabi",
+  "model_dir": "experiments\\tempcnn\\models",
+  "model_type": "tempcnn",
+  "temperature": 0.9188,
+  "n_test": 3390,
+  "n_eval": 2034,
+  "OA": 0.8938,
+  "Macro_F1": 0.7766,
+  "Weighted_F1": 0.9052,
+  "Kappa": 0.7745,
+  "ECE_uncal": 0.0163,
+  "ECE_cal": 0.017,
+  "Brier_uncal": 0.164,
+  "Brier_cal": 0.1642,
+  "AURC": 0.0355,
+  "Acc@80cov": 0.957
+}

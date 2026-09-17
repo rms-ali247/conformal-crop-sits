@@ -1,0 +1,22 @@
+{
+  "season": "rabi",
+  "score": "aps",
+  "alpha": 0.1,
+  "temperature": 1.854,
+  "qhat_marginal": 0.999722,
+  "qhat_robust": 0.999829,
+  "qhat_mondrian": [
+    0.999805,
+    0.999962,
+    0.99985,
+    0.999813,
+    0.999669
+  ],
+  "class_names": [
+    "Barseem",
+    "Maize",
+    "Rapeseed Mustard",
+    "Sugarcane",
+    "Wheat"
+  ]
+}

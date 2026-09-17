@@ -1,0 +1,13 @@
+Test OA=0.9310  F1=0.9326  Kappa=0.8376
+
+                  precision    recall  f1-score   support
+
+         Barseem     0.6098    0.8333    0.7042       120
+           Maize     0.9350    0.9595    0.9471       420
+Rapeseed Mustard     0.8087    0.7831    0.7957       189
+       Sugarcane     0.7069    0.7257    0.7162       113
+           Wheat     0.9708    0.9509    0.9607      2548
+
+        accuracy                         0.9310      3390
+       macro avg     0.8062    0.8505    0.8248      3390
+    weighted avg     0.9357    0.9310    0.9326      3390
