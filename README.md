@@ -1,5 +1,8 @@
 # Conformal Crop Classification Across Regions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22806699.svg)](https://doi.org/10.5281/zenodo.22806699)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Code, trained models, and evaluation artefacts for the paper **"Conformal Crop
 Classification Across Regions with Sentinel-2 Time Series"**.
 
@@ -37,7 +40,7 @@ python -m venv env && env/Scripts/activate      # Linux/macOS: source env/bin/ac
 pip install -r requirements.txt
 ```
 
-Then fetch the dataset from Zenodo (DOI below) and unpack it so the arrays land
+Then fetch the dataset from Zenodo ([10.5281/zenodo.22806699](https://doi.org/10.5281/zenodo.22806699)) and unpack it so the arrays land
 in `data/processed_monthly/`:
 
 ```
@@ -184,7 +187,7 @@ remain hard, and we say so rather than smoothing it over.
 
 The processed tensors are deposited on Zenodo:
 
-> DOI: **10.5281/zenodo.XXXXXXX** (replace after the deposit is published)
+> DOI: [**10.5281/zenodo.22806699**](https://doi.org/10.5281/zenodo.22806699)
 
 The metadata carries district and province names only. There are no field
 geometries, no coordinates, and no personal identifiers. See `zenodo/README.md`

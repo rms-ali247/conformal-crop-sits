@@ -8,6 +8,7 @@ abstract: >-
   surveyed fields across 79 districts of Pakistan over two cropping seasons.
 type: software
 license: MIT
+doi: "10.5281/zenodo.22806699"
 url: "https://github.com/rms-ali247/conformal-crop-sits"
 repository-code: "https://github.com/rms-ali247/conformal-crop-sits"
 authors:
